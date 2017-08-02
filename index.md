@@ -39,4 +39,4 @@
 这纷乱的世界需要你独自体会  
 当你没有一个伙伴
 
-# [Link to my photos](photos).
+## [Link to my photos](photos).
