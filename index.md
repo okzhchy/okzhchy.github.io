@@ -40,3 +40,6 @@
 当你没有一个伙伴
 
 # [Link to my photos](photos).
+
+![](https://github.com/okzhchy/okzhchy.github.io/tree/master/images/xps.jpg)  
+![](https://github.com/okzhchy/okzhchy.github.io/blob/master/images/db.jpg)
