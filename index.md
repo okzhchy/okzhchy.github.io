@@ -1,4 +1,4 @@
-# okzhchy  
+# 美妙的孤单  
 不知是早是晚  
 也不在乎这时间
 
@@ -39,4 +39,4 @@
 这纷乱的世界需要你独自体会  
 当你没有一个伙伴
 
-[Link to my photos](photos).
+# [Link to my photos](photos).
