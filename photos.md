@@ -1,5 +1,9 @@
+---
+layout: default
+---
 
-![](https://github.com/okzhchy/okzhchy.github.io/images/xps.jpg)  
-![](https://github.com/okzhchy/okzhchy.github.io/images/db.jpg)
+## Welcome to another page
+
+_yay_
 
 [back](./)
