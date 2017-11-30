@@ -1,5 +1,4 @@
 title: Dylan Zhang
 description: Dylan Zhang's site.
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-cayman
+theme: minima
